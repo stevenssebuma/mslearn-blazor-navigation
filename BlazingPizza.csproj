@@ -6,9 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.2" />
     <PackageReference Include="System.Net.Http.Json" Version="9.0.2" />
+=======
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.0" />
+    <PackageReference Include="System.Net.Http.Json" Version="9.0.0" />
+>>>>>>> 91e4b5c5e38df75f76ca4b3b104a532d13406d32
   </ItemGroup>
 
 </Project>
